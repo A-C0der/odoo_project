@@ -1,6 +1,6 @@
 # See LICENSE file for full copyright and licensing details.
 {
-	'name':"Gift Card Expired Date",
+	'name':"Gift_Card Expired Date",
 	'version':'1.0',
 	'depends':['base','gift_card'],
 	'author' : 'Htet Arkar kyaw',

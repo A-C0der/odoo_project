@@ -7,7 +7,7 @@
 	'author' : 'Htet Arkar kyaw',
 	"license": "AGPL-3",
 	'description': """ 
-	  To work Gift Card Expired Date""",
+	  To work Automatic Gift Card Expired Date""",
 	'application':True,
 	'category':'Technical/Gift Card',
 	'images':['static/description/icon.png'],

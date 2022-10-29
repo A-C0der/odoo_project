@@ -10,6 +10,7 @@
 	  To work Gift Card Expired Date""",
 	'application':True,
 	'category':'Technical/Gift Card',
+	'images':['static/description/icon.png'],
 	'website':'https://github.com/A-C0der/odoo_project',
 	'sequence':-100, 
 	'data':['views/cron_giftcard.xml',],

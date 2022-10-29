@@ -3,6 +3,7 @@
 	'name':"Gift_Card Expired Date",
 	'version':'1.0',
 	'depends':['base','gift_card'],
+	'summary':'Gift Card Error Fix',
 	'author' : 'Htet Arkar kyaw',
 	"license": "AGPL-3",
 	'description': """ 
